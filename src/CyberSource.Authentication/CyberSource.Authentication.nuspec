@@ -10,6 +10,7 @@
     <projectUrl>https://github.com/CyberSource/cybersource-rest-auth-dotnet</projectUrl>
     <description>Use this SDK to generate Authentication Headers to be sent for the CyberSource REST API Calls</description>
     <releaseNotes>Authentication SDK for CyberSource REST APIs. Reworked and modernized.</releaseNotes>
+    <repository type="git" url="https://github.com/h4b-dev/CyberSource.Authentication.git" branch="master" commit="6af4b203b66bcff4eef4dc33b802257645134f02" />
     <dependencies>
       <group targetFramework="netstandard2.0">
         <dependency id="jose-jwt" version="2.4.0" />
